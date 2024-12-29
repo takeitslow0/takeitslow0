@@ -2,10 +2,10 @@
 
 ## I'm a Student and Junior Developer!!
 
-- 🔭 I'm nineteen years old.
+- 🔭 I'm twenty-two years old.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I want to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2025 Goals: Learn more about web3
 - ⚡ Fun fact: I love coding
 
 ### Connect with me:
